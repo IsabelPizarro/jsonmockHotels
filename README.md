@@ -1,0 +1,2 @@
+# jsonmockHotels
+hoteles falsos
